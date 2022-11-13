@@ -1,3 +1,9 @@
+🛡Web3-Todo-App-Solidity-Reactjs
+
+A Todo app that is powered of blockchain. For frontend we used React-js and Antd (Design library). 
+And here we use truffle to deploy the contract.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
